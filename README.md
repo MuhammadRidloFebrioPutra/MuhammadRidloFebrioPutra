@@ -1,8 +1,5 @@
 # Hi there, I'm Muhammad Ridlo Febrio Putra! 👋
 
-## 🙋‍♂️ About Me
-Hello! My name is **Muhammad Ridlo Febrio Putra**, and I'm a passionate technology enthusiast currently pursuing my education and building my skills in various areas of software development.
-
 ## 🎓 Education
 - 📚 **Politeknik Negeri Malang** - Currently studying and developing my technical skills
 
