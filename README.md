@@ -18,12 +18,6 @@ I have hands-on experience working with various technologies and have created pr
 ## 🌱 Current Status
 I'm still a **newbie** in the tech world and continuously learning new technologies and best practices. I'm passionate about expanding my knowledge and taking on new challenges in software development.
 
-## 🚀 What I'm Learning
-- Improving my programming skills
-- Exploring new frameworks and technologies
-- Building more complex projects
-- Contributing to open source
-
 ## 📫 Let's Connect!
 Feel free to reach out if you'd like to collaborate on projects or just chat about technology!
 
